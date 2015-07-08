@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+}
+
+#logo img{
+    width: 100%;
+}
+
+.menu li{
+    background-color: #000000;
+}
+
+.menu li a{
+    color: #ffffff;
+}
+
+.menu li a:hover{
+    color: #c9302c;
+    font-weight: 800;
+}
