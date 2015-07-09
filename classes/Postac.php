@@ -7,7 +7,7 @@ class Postac{
     protected $zycie;
 
     function __construct($szybkosc, $sila, $zrecznosc, $zycie){
-        $this->$szybkosc = $szybkosc;
+        $this->szybkosc = $szybkosc;
         $this->sila = $sila;
         $this->zrecznosc = $zrecznosc;
         $this->zycie = $zycie;
